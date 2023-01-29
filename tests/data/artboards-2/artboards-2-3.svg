@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: lime;
-      }
-    </style>
-  </defs>
-  <g id="artboard-1">
-    <circle cx="512" cy="512" r="387" class="cls-1"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" preserveAspectRatio="xMidYMid" viewBox="0 0 1024 1024"><defs><style>.cls-1{fill:#0f0}</style></defs><g id="artboard-1"><circle cx="512" cy="512" r="387" class="cls-1"/></g></svg>
